@@ -13,6 +13,8 @@ A dynamic and responsive web app made using React to display and filter the popu
 
 *Due to the limitation of the News API used currently news articles are not available for a complete read. This can be improvised using paid versions.
 
+API Used: https://saurav.tech/NewsAPI/
+
 **Key Technologies:**
 
 * React: To build frontend.
